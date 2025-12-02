@@ -21,7 +21,7 @@ Netnea's Christian Folini ([dune73](https://github.com/dune73)) and Franziska BÃ
 
 ### C-Rex
 
-A suite of tools that helps with the operation of a CRS based web application firewall. C-Rex helps with the identification and tuning of false positives. It filters away all the attacks and shows you the false positives that can then be handled accordingly.
+A suite of tools that helps with the operation of a CRS based web application firewall. C-Rex helps with the identification and tuning of false positives. It filters away all the attacks and shows you the false positives that can then be handled accordingly. C-Rex significantly reduces the time needed for repetitive log analysis and tuning.
 
 ðŸ”— [C-Rex](https://c-rex.netnea.com)
 
