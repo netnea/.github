@@ -6,12 +6,15 @@ Swiss Web Application Firewall experts specializing in ModSecurity and OWASP Cor
 
 ## What We Do
 
-Netnea provides professional services for web application security, focusing on:
+Netnea provides professional services for web application security, network monitoring
+and operation support systems.
 
 - **[ModSecurity](https://www.modsecurity.org)** integration and optimization
 - **[OWASP CRS](https://coreruleset.org)** deployment and tuning
 - False positive analysis and remediation
 - WAF rule development and customization
+- Network Management, Operation Support System (OSS)
+- Linux / Unix System Management
 
 ## Key Contributions
 
