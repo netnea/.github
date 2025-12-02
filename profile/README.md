@@ -27,7 +27,7 @@ A suite of tools that helps with the operation of a CRS based web application fi
 
 ### CRS Upgrading Plugin
 
-A GPL licensed CRS plugin to simplify upgrading between OWASP CRS versions while preserving your low anomaly threshold during the transition.
+A GPL licensed CRS plugin by Franziska Bühler to simplify upgrading between OWASP CRS versions while preserving your low anomaly threshold during the transition.
 
 🔗 [github.com/netnea/crs-upgrading-plugin](https://github.com/netnea/crs-upgrading-plugin)
 
